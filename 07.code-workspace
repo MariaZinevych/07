@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../../../Downloads/src (1)/src/css"
+	},
+	{
+		"path": "../../../../../Downloads/src (1)/src/js"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "07",
+    "liveServer.settings.port": 5501
+  }
+}
